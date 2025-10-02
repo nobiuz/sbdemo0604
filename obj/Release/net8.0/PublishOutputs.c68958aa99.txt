@@ -1,0 +1,7 @@
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.exe
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\appsettings.json
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.dll
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.deps.json
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.runtimeconfig.json
+D:\Repos_azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.pdb
